@@ -7,6 +7,9 @@ This dataset was originally taken from the StatLib library which is maintained a
 
 
 # DATASETS:
+
+https://www.kaggle.com/datasets/floser/hitters
+
 AtBat: Number of times at bat in 1986
 
 Hits: Number of hits in 1986
